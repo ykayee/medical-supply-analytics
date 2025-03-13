@@ -1,0 +1,53 @@
+product_id,product_name,category,brand,unit_of_measure,cost,retail_price
+P001,Sterile Gauze Pads,Nursing supplies,Medline,BOX,2.5,4.25
+P002,Alcohol Prep Pads,Nursing supplies,Johnson & Johnson,BOX,3.0,5.1
+P003,IV Start Kits,Nursing supplies,Smith & Nephew,KIT,10.0,17.0
+P004,Disposable Gloves (Nitrile),Nursing supplies,Kimberly-Clark,BOX,8.0,13.6
+P005,Thermometer (Digital),Nursing supplies,Omron,SGL,12.0,20.4
+P006,Stethoscope,Nursing supplies,3M Littmann,SGL,25.0,42.5
+P007,Blood Pressure Cuff,Nursing supplies,Welch Allyn,SGL,30.0,51.0
+P008,Aluminum Walker with Wheels,Medical Equipment,Nova Medical,SGL,125.0,212.5
+P009,Adjustable Hospital Bed,Medical Equipment,Invacare,SGL,500.0,850.0
+P010,Blood Glucose Monitor,Medical Equipment,OneTouch,SGL,40.0,68.0
+P011,Oxygen Concentrator,Medical Equipment,Philips,SGL,800.0,1360.0
+P012,Pulse Oximeter,Medical Equipment,Contec,SGL,20.0,34.0
+P013,Nebulizer Machine,Medical Equipment,Pari,SGL,70.0,119.0
+P014,Electric Patient Lift,Medical Equipment,Hoyer,SGL,1500.0,2550.0
+P015,Suction Machine,Medical Equipment,DeVilbiss,SGL,300.0,510.0
+P016,Ibuprofen Tablets,Over-the-Counter (OTC),Advil,BOTTLE,4.0,7.0
+P017,Acetaminophen (Tylenol),Over-the-Counter (OTC),Tylenol,BOTTLE,3.0,5.25
+P018,Diphenhydramine (Benadryl),Over-the-Counter (OTC),Benadryl,BOTTLE,6.0,10.5
+P019,Antacid Chewable Tablets,Over-the-Counter (OTC),Tums,ROLL,4.0,7.0
+P020,Cough Syrup,Over-the-Counter (OTC),Robitussin,BOTTLE,5.0,8.75
+P021,Nasal Spray,Over-the-Counter (OTC),Flonase,BOTTLE,8.0,14.0
+P022,Loperamide (Imodium),Over-the-Counter (OTC),Imodium,PACK,4.0,7.0
+P023,Antiseptic Ointment,Over-the-Counter (OTC),Neosporin,TUBE,7.0,12.25
+P024,Adult Briefs,Continence Care,TENA,PACK,15.0,26.25
+P025,Underpads,Continence Care,Chux,PACK,10.0,17.5
+P026,Catheters (Foley),Continence Care,Bard Medical,BOX,25.0,43.75
+P027,Urethral Lubricating Jelly,Continence Care,KY,TUBE,5.0,8.75
+P028,Perineal Cleansing Wipes,Continence Care,Medline,PACK,7.0,12.25
+P029,Bedside Commode,Continence Care,Drive Medical,SGL,100.0,175.0
+P030,Male External Catheter,Continence Care,Coloplast,BOX,30.0,52.5
+P031,Hydrocolloid Dressings,Wound Care,Comfeel,BOX,20.0,34.0
+P032,Foam Dressings,Wound Care,Mepilex,BOX,18.0,30.6
+P033,Silver Alginate Dressings,Wound Care,Aquacel,BOX,30.0,51.0
+P034,Sterile Saline Solution,Wound Care,Saline,BOTTLE,5.0,8.5
+P035,Adhesive Bandages,Wound Care,Band-Aid,BOX,3.0,5.1
+P036,Antiseptic Wound Wash,Wound Care,Betadine,BOTTLE,6.0,10.2
+P037,Oxygen Cannula,Respiratory,Medline,BOX,15.0,25.5
+P038,Portable Oxygen Concentrator,Respiratory,Inogen,SGL,1200.0,2040.0
+P039,CPAP Masks,Respiratory,ResMed,SGL,100.0,170.0
+P040,Ventilator Tubing,Respiratory,Philips,ROLL,50.0,85.0
+P041,Incentive Spirometer,Respiratory,AirLife,SGL,30.0,48.0
+P042,Peak Flow Meter,Respiratory,PulmoMeter,SGL,25.0,40.0
+P043,Albuterol Inhaler,Respiratory,ProAir,SGL,30.0,48.0
+P044,Tracheostomy Care Kit,Respiratory,Medtronic,KIT,150.0,240.0
+P045,Blood Glucose Monitoring Kit,Diabetes Management,Accu-Chek,KIT,25.0,46.25
+P046,Insulin Syringes,Diabetes Management,BD,BOX,10.0,18.5
+P047,Continuous Glucose Monitor (CGM),Diabetes Management,Dexcom,SGL,300.0,555.0
+P048,Lancets & Lancing Device,Diabetes Management,OneTouch,BOX,10.0,18.5
+P049,Insulin Pump Supplies,Diabetes Management,Medtronic,KIT,500.0,925.0
+P050,Ketone Test Strips,Diabetes Management,Precision Xtra,BOX,15.0,27.75
+P051,Diabetic Foot Cream,Diabetes Management,CeraVe,TUBE,8.0,14.8
+P052,Sugar-Free Glucose Tablets,Diabetes Management,Glucolift,BOX,5.0,9.25
