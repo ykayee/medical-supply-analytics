@@ -1,0 +1,18 @@
+customer_id,customer_name,customer_city,customer_state,customer_zip_code_prefix
+CUS001,CareFirst Home Health,Houston,Texas,77001
+CUS002,BrightPath Senior Services,New York City,New York,10001
+CUS003,SafeHaven Care Solutions,Orlando,Florida,32801
+CUS004,GentleHands Home Assistance,Phoenix,Arizona,85001
+CUS005,VitalCare Senior Support,Buffalo,New York,14201
+CUS006,EverSafe In-Home Services,Springfield,Illinois,62701
+CUS007,TrueCare Health Solutions,Buffalo,New York,14201
+CUS008,SereneHome Health Agency,Columbus,Ohio,43201
+CUS009,SilverBridge Home Care,Los Angeles,California,90001
+CUS010,GoldenYears Home Support,Phoenix,Arizona,85001
+CUS011,Harmony Senior Assistance,San Diego,California,92101
+CUS012,Guardian Angel Home Care,Miami,Florida,33101
+CUS013,TranquilLiving Senior Services,San Francisco,California,94101
+CUS014,NobleCare Home Health,Chicago,Illinois,60601
+CUS015,EliteCare In-Home Services,Houston,Texas,77001
+CUS016,CareLiving Home Health,Chicago,Illinois,60601
+CUS017,HomeSafe Services,Austin,Texas,73301
